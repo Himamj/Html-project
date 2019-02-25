@@ -1,0 +1,20 @@
+h4{
+color:green;
+}
+input[type=text]
+{
+	text:blue;
+}
+#placeholder
+{
+	color:blue;
+}
+p.italic{
+	font-style:italic;
+}
+img{
+border-radius:50%
+}
+placeholder.color{
+	color:blue;
+}
